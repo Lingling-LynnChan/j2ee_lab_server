@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
-      <change afterPath="$PROJECT_DIR$/travel-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/src/main/java/cn/sc/czy/gateway/TravelGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-gateway/src/test/java/cn/sc/czy/gateway/TravelGatewayApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travel-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/travel-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +33,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/travel-gateway" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,19 +71,29 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "C:/Users/Lingl/Documents/J2EE_LAB/J2EE_LAB_SERV/travel-cloud/travel-web/src/main/java/cn/sc/czy/web/dto",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "aba6dc19398393c0a4e09b80c80be2a6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel-web\src\main\java\cn\sc\czy\web\dto" />
+      <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel-web\src\main\java\cn\sc\czy\web" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -140,6 +136,7 @@
       <workItem from="1682591555324" duration="623000" />
       <workItem from="1682598561954" duration="11569000" />
       <workItem from="1682625236076" duration="623000" />
+      <workItem from="1682664411681" duration="4332000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>
