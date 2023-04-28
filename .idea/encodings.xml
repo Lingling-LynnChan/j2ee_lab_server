@@ -4,10 +4,10 @@
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/travel-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travel-business/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/travel-dao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/travel-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/travel-gateway/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/travel-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/travel-web/src/main/java" charset="UTF-8" />
   </component>
 </project>

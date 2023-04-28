@@ -15,7 +15,7 @@
         <module>travel-gateway</module>
         <module>travel-web</module>
         <module>travel-api</module>
-        <module>travel-service</module>
+        <module>travel-business</module>
     </modules>
 
     <!-- 继承自项目：spring-boot-starter-parent -->

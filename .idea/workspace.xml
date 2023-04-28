@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例" />
+    <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/src/main/java/cn/sc/czy/service/TravelServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/src/main/java/cn/sc/czy/service/controller/EchoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-service/src/test/java/cn/sc/czy/service/TravelServiceApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +127,7 @@
       </method>
     </configuration>
     <configuration name="TravelServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="travel-service" />
+      <module name="travel-business" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sc.czy.service.TravelServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,7 +153,7 @@
       <workItem from="1682591555324" duration="623000" />
       <workItem from="1682598561954" duration="11569000" />
       <workItem from="1682625236076" duration="623000" />
-      <workItem from="1682664411681" duration="4638000" />
+      <workItem from="1682664411681" duration="6587000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>

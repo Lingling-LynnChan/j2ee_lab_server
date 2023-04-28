@@ -4,7 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/travel-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/travel-gateway" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/travel-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/travel-web" vcs="Git" />
   </component>
 </project>
