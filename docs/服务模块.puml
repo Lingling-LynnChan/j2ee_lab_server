@@ -1,0 +1,69 @@
+@startuml
+
+'地图模块
+object TravelMap {
+    地图导航模块
+}
+'评论模块
+object TravelCommit {
+    评论社交模块
+}
+'订票模块（景点 Attraction）
+object TravelTicketA {
+    景点门票预约模块
+}
+'订票模块（交通 Traffic）
+object TravelTicketT {
+    交通订票模块
+}
+'打车模块
+object TravelCar {
+    网约车打车模块
+}
+'天气模块
+object TravelWeather {
+    天气查询模块
+}
+
+'美食
+map TravelDelicacy {
+    地点（导航）*--->TravelMap
+    地点（网约车）*---->TravelCar
+    评论*----->TravelCommit
+}
+'购物
+map TravelBusiness {
+    地点（导航）*--->TravelMap
+    地点（网约车）*---->TravelCar
+    评论*----->TravelCommit
+}
+'景点
+map TravelAttraction {
+    地点（导航）*--->TravelMap
+    地点（网约车）*---->TravelCar
+    天气*-->TravelWeather
+    门票*-->TravelTicketA
+    评论*----->TravelCommit
+}
+'交通
+map TravelTraffic {
+    地点（导航）*--->TravelMap
+    地点（网约车）*---->TravelCar
+    订票*-->TravelTicketT
+}
+'住宿
+map TravelLodging {
+    地点（导航）*-->TravelMap
+    地点（网约车）*---->TravelCar
+    评论*----->TravelCommit
+}
+'旅游自助系统网关
+map TravelGateway {
+    美食*-->TravelDelicacy
+    购物*-->TravelBusiness
+    景点*-->TravelAttraction
+    交通*-->TravelTraffic
+    住宿*-->TravelLodging
+}
+
+@enduml
