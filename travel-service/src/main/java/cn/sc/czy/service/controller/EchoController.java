@@ -1,6 +1,8 @@
 package cn.sc.czy.service.controller;
 
 import cn.sc.czy.api.EchoApi;
+import org.springframework.amqp.rabbit.annotation.Queue;
+import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -19,4 +21,10 @@ public class EchoController implements EchoApi {
     public String echo(@PathVariable String message) {
         return preEcho + message;
     }
+
+    @RabbitListener(queuesToDeclare = @Queue("echo"))
+    public void rabbitmq(String message) {
+        System.err.println(message);
+    }
+
 }
