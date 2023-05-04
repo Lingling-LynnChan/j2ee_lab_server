@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
-      <change afterPath="$PROJECT_DIR$/.uml/Activity.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/Class.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/Component.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/Deployment.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/EBNF.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/Gantt.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/MindMap.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/Object.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/Sequence.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/State.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/UseCase.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/Wireframe.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/WorkBreakdownStructure.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.uml/YAMLData.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务模块.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务模块.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/系统结构.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/系统结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/service/MessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/service/impl/MessageProviderImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/服务模块.puml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/服务模块.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统结构.puml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/系统结构.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-business/src/main/java/cn/sc/czy/service/controller/EchoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travel-business/src/main/java/cn/sc/czy/service/controller/EchoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-business/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/travel-business/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/controller/EchoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/controller/EchoController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +41,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="UML Sequence" />
         <option value="UML Use Case" />
         <option value="UML Class" />
@@ -66,6 +55,8 @@
         <option value="UML YAML Data" />
         <option value="EBNF" />
         <option value="UML Object" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -129,8 +120,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel-web\src\main\java\cn\sc\czy\web\dto" />
       <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel-web\src\main\java\cn\sc\czy\web" />
+      <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel-web\src\main\java\cn\sc\czy\web\dto" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,7 +167,10 @@
       <workItem from="1682598561954" duration="11569000" />
       <workItem from="1682625236076" duration="623000" />
       <workItem from="1682664411681" duration="7803000" />
-      <workItem from="1682696346198" duration="6880000" />
+      <workItem from="1682696346198" duration="7475000" />
+      <workItem from="1683209918634" duration="5378000" />
+      <workItem from="1683217991876" duration="597000" />
+      <workItem from="1683219800858" duration="3476000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>

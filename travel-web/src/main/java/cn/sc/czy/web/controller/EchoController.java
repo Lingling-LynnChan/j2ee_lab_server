@@ -1,7 +1,7 @@
 package cn.sc.czy.web.controller;
 
 import cn.sc.czy.web.service.EchoService;
-import cn.sc.czy.web.service.RabbitmqService;
+import cn.sc.czy.web.service.MessageProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -17,7 +17,7 @@ public class EchoController {
     private EchoService echoService;
 
     @Autowired
-    private RabbitmqService rabbitmqService;
+    private MessageProvider messageProvider;
 
     @ResponseBody
     @GetMapping("/echo/{message}")
@@ -28,7 +28,7 @@ public class EchoController {
     @ResponseBody
     @GetMapping("/rabbitmq/{message}")
     public String rabbitmq(@PathVariable String message) {
-        rabbitmqService.send(message);
+        messageProvider.send(message);
         return "OK";
     }
 

@@ -1,5 +1,10 @@
 @startuml
 
+'“我的”模块
+object TravelMine{
+    个人信息模块
+}
+
 '地图模块
 object TravelMap {
     地图导航模块
@@ -30,32 +35,37 @@ map TravelDelicacy {
     地点（导航）*--->TravelMap
     地点（网约车）*---->TravelCar
     评论*----->TravelCommit
+    个人信息*----->TravelMine
 }
 '购物
 map TravelBusiness {
     地点（导航）*--->TravelMap
     地点（网约车）*---->TravelCar
     评论*----->TravelCommit
+    个人信息*----->TravelMine
 }
 '景点
-map TravelAttraction {
+    map TravelAttraction {
     地点（导航）*--->TravelMap
     地点（网约车）*---->TravelCar
     天气*-->TravelWeather
     门票*-->TravelTicketA
     评论*----->TravelCommit
+    个人信息*----->TravelMine
 }
 '交通
 map TravelTraffic {
     地点（导航）*--->TravelMap
     地点（网约车）*---->TravelCar
     订票*-->TravelTicketT
+    个人信息*----->TravelMine
 }
 '住宿
 map TravelLodging {
     地点（导航）*-->TravelMap
     地点（网约车）*---->TravelCar
     评论*----->TravelCommit
+    个人信息*----->TravelMine
 }
 '旅游自助系统网关
 map TravelGateway {
