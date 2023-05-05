@@ -8,22 +8,22 @@
                             :default-active="$router.path"
                             mode="horizontal"
                             @select="titleSelect">
-                        <el-menu-item index="/index">主页</el-menu-item>
-                        <el-sub-menu index="/1">
+                        <el-menu-item index="/">主页</el-menu-item>
+                        <el-sub-menu index="/traffic">
                             <template #title>交通</template>
-                            <el-menu-item index="/1/1">导航</el-menu-item>
-                            <el-menu-item index="/1/2">打车</el-menu-item>
-                            <el-sub-menu index="/1/3">
+                            <el-menu-item index="/traffic/map">导航</el-menu-item>
+                            <el-menu-item index="/traffic/car">打车</el-menu-item>
+                            <el-sub-menu index="/traffic/ticket">
                                 <template #title>订票</template>
-                                <el-menu-item index="/1/3/1">火车票</el-menu-item>
-                                <el-menu-item index="/1/3/2">飞机票</el-menu-item>
+                                <el-menu-item index="/traffic/ticket/train">火车票</el-menu-item>
+                                <el-menu-item index="/traffic/ticket/plane">飞机票</el-menu-item>
                             </el-sub-menu>
                         </el-sub-menu>
-                        <el-menu-item index="/2">美食</el-menu-item>
-                        <el-menu-item index="/3">购物</el-menu-item>
-                        <el-menu-item index="/4">景点</el-menu-item>
-                        <el-menu-item index="/5">住宿</el-menu-item>
-                        <el-menu-item index="/6">AI问答</el-menu-item>
+                        <el-menu-item index="/delicacy">美食</el-menu-item>
+                        <el-menu-item index="/business">购物</el-menu-item>
+                        <el-menu-item index="/attraction">景点</el-menu-item>
+                        <el-menu-item index="/lodging">住宿</el-menu-item>
+                        <el-menu-item index="/chat">AI问答</el-menu-item>
                     </el-menu>
                 </el-aside>
                 <el-main class="flex" style="width: 20%;right: auto;text-align: right">
