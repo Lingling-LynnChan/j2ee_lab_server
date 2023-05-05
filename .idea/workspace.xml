@@ -5,16 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
-      <change afterPath="$PROJECT_DIR$/docs/系统结构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/service/MessageProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/service/impl/MessageProviderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/src/components/Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/src/view/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-vue3js/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/服务模块.puml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/服务模块.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统结构.puml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/系统结构.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-business/src/main/java/cn/sc/czy/service/controller/EchoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travel-business/src/main/java/cn/sc/czy/service/controller/EchoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-business/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/travel-business/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/controller/EchoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/controller/EchoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel_system/web/manifest.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +76,9 @@
         <option value="UML Object" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="Dart File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -92,6 +114,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "DefaultPlantUmlFileTemplate": "UML Object",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -101,20 +124,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "io.flutter.reload.alreadyRun": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "C:/Users/Lingl/Documents/J2EE_LAB/J2EE_LAB_SERV/travel-cloud/docs",
+    "last_opened_file_path": "C:/Users/Lingl/Documents/J2EE_LAB/J2EE_LAB_SERV/travel-cloud/travel_flutter/travel_flutter.iml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false",
     "spring.configuration.checksum": "755a19227e15696be802601a4e473b10",
+    "ts.external.directory.path": "C:\\Users\\Lingl\\AppData\\Local\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\231.8109.175\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -122,6 +151,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel-web\src\main\java\cn\sc\czy\web" />
       <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel-web\src\main\java\cn\sc\czy\web\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud\travel_system" />
+      <recent name="C:\Users\Lingl\Documents\J2EE_LAB\J2EE_LAB_SERV\travel-cloud" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -131,7 +164,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.TravelGatewayApplication">
+  <component name="RunManager" selected="npm.npm run">
     <configuration name="TravelGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="travel-gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sc.czy.gateway.TravelGatewayApplication" />
@@ -153,6 +186,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="npm run" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/travel-vue3js/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.npm run" />
+      <item itemvalue="Spring Boot.TravelGatewayApplication" />
+      <item itemvalue="Spring Boot.TravelServiceApplication" />
+      <item itemvalue="Spring Boot.TravelWebApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -170,7 +219,10 @@
       <workItem from="1682696346198" duration="7475000" />
       <workItem from="1683209918634" duration="5378000" />
       <workItem from="1683217991876" duration="597000" />
-      <workItem from="1683219800858" duration="3476000" />
+      <workItem from="1683219800858" duration="3800000" />
+      <workItem from="1683225244115" duration="4851000" />
+      <workItem from="1683230128729" duration="1355000" />
+      <workItem from="1683231500371" duration="8782000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>
