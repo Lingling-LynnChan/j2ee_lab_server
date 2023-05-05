@@ -8,7 +8,7 @@
                             :default-active="$router.path"
                             mode="horizontal"
                             @select="titleSelect">
-                        <el-menu-item index="/">主页</el-menu-item>
+                        <el-menu-item index="/index">主页</el-menu-item>
                         <el-sub-menu index="/1">
                             <template #title>交通</template>
                             <el-menu-item index="/1/1">导航</el-menu-item>
@@ -39,7 +39,6 @@
         </el-header>
         <el-main>
             <router-view>
-
             </router-view>
         </el-main>
     </el-container>
@@ -47,7 +46,6 @@
 </template>
 
 <script setup>
-import {ref} from 'vue'
 import {Setting} from "@element-plus/icons-vue";
 
 const titleSelect = (key) => {

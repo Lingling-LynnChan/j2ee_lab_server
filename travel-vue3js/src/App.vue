@@ -1,11 +1,9 @@
 <script setup>
-import Home from './components/Main.vue'
-import {Headset} from "@element-plus/icons-vue";
+import Index from './components/Index.vue'
 </script>
 
 <template>
-
-    <Home/>
+    <Index/>
 </template>
 
 <style scoped>

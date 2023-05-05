@@ -5,7 +5,7 @@ import {createRouter, createWebHashHistory} from 'vue-router'
 import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 import 'element-plus/dist/index.css'
 import App from './App.vue'
-import Home from "./components/Main.vue";
+import Home from "./components/Home.vue";
 
 const app = createApp(App)
 app.use(ElementPlus, {
@@ -19,7 +19,7 @@ const router = createRouter({
             component: App,
             children: [
                 {
-                    path: '',
+                    path: '/2',
                     component: Home
                 }
             ]
