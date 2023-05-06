@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
-      <change afterPath="$PROJECT_DIR$/travel-vue3js/src/components/Business.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-vue3js/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/travel-vue3js/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-vue3js/src/components/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/travel-vue3js/src/components/Index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-vue3js/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/travel-vue3js/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,6 +204,7 @@
       <workItem from="1683300416243" duration="2587000" />
       <workItem from="1683309588386" duration="4256000" />
       <workItem from="1683313293659" duration="43000" />
+      <workItem from="1683364636925" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>
