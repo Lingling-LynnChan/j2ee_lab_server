@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travel-business/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel-business/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/travel-business/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/travel-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-vue3js/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/travel-vue3js/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/service/EchoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/travel-web/src/main/java/cn/sc/czy/web/service/EchoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/travel-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-business/src/test/java/cn/sc/czy/service/TravelServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/travel-business/src/test/java/cn/sc/czy/service/TravelServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,9 +117,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
     "show.migrate.to.gradle.popup": "false",
     "spring.configuration.checksum": "755a19227e15696be802601a4e473b10",
@@ -152,7 +152,23 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="npm.npm run">
+  <component name="RunManager" selected="JUnit.TravelServiceApplicationTests.contextLoads">
+    <configuration name="TravelServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="travel-business" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sc.czy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sc.czy.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.sc.czy.service.TravelServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TravelGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="travel-gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sc.czy.gateway.TravelGatewayApplication" />
@@ -191,11 +207,17 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JUnit.TravelServiceApplicationTests.contextLoads" />
       <item itemvalue="npm.npm run" />
       <item itemvalue="Spring Boot.TravelGatewayApplication" />
       <item itemvalue="Spring Boot.TravelServiceApplication" />
       <item itemvalue="Spring Boot.TravelWebApplication" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TravelServiceApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -223,6 +245,7 @@
       <workItem from="1683364636925" duration="970000" />
       <workItem from="1683365618552" duration="8469000" />
       <workItem from="1683450478046" duration="1248000" />
+      <workItem from="1683472490761" duration="2511000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>

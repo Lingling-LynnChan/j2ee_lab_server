@@ -25,6 +25,11 @@
             <optional>true</optional>
         </dependency>
         <dependency>
+            <groupId>com.github.gaarason.database-all</groupId>
+            <artifactId>database-spring-boot-starter</artifactId>
+            <version>4.7.0</version>
+        </dependency>
+        <dependency>
             <groupId>cn.sc.czy</groupId>
             <artifactId>travel-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
