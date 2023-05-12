@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/844533d7-e683-4571-ab16-208b9b6665b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/844533d7-e683-4571-ab16-208b9b6665b4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +243,7 @@
       <workItem from="1683715121644" duration="1016000" />
       <workItem from="1683789708971" duration="84000" />
       <workItem from="1683890959203" duration="644000" />
-      <workItem from="1683891925066" duration="4858000" />
+      <workItem from="1683891925066" duration="5124000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>
