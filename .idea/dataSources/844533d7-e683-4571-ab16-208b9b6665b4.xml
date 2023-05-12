@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="0@czy.sc.cn">
+<dataSource name="Redis">
   <database-model serializer="dbm" dbms="REDIS" family-id="REDIS" format-version="4.48">
     <root id="1">
-      <ServerVersion>5.0.7</ServerVersion>
+      <ServerVersion>6.0.16</ServerVersion>
     </root>
     <schema id="2" parent="1" name="0">
       <Current>1</Current>
