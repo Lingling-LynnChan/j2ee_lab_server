@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a5f00ea-80f4-4cbd-ac03-34e5051bba25" name="更改" comment="基本框架和Echo实例">
-<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/docker.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/06b311ec-b481-4af2-a101-0b88fd5a6cdd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/844533d7-e683-4571-ab16-208b9b6665b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/844533d7-e683-4571-ab16-208b9b6665b4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
->>>>>>> 6627671872d9daff1feccd6410e5b16283d7cbab
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travel-gateway/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +52,12 @@
         <option value="UML YAML Data" />
         <option value="EBNF" />
         <option value="UML Object" />
-        <option value="Interface" />
         <option value="Class" />
         <option value="HTML File" />
         <option value="Dart File" />
         <option value="Dockerfile" />
         <option value="Vue Single File Component" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -108,11 +109,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-<<<<<<< HEAD
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lingl/Documents/2023.04.XX_毕设_后端_智能楼宇暖通、电力和照明管理/SmartCloud&quot;,
-=======
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Lingl/Documents/Projects/j2ee_lab_server&quot;,
->>>>>>> 6627671872d9daff1feccd6410e5b16283d7cbab
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -124,11 +121,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-<<<<<<< HEAD
     &quot;spring.configuration.checksum&quot;: &quot;755a19227e15696be802601a4e473b10&quot;,
-=======
-    &quot;spring.configuration.checksum&quot;: &quot;e1c3da324f516b8c926bec71f1916758&quot;,
->>>>>>> 6627671872d9daff1feccd6410e5b16283d7cbab
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Lingl\\AppData\\Local\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\231.8109.175\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -252,21 +245,27 @@
       <workItem from="1683365618552" duration="8469000" />
       <workItem from="1683450478046" duration="1248000" />
       <workItem from="1683472490761" duration="2511000" />
-<<<<<<< HEAD
       <workItem from="1683489642032" duration="20000" />
       <workItem from="1683490079079" duration="18000" />
       <workItem from="1683491536655" duration="21000" />
       <workItem from="1683819554233" duration="17000" />
       <workItem from="1683819594241" duration="8000" />
       <workItem from="1683832879657" duration="35000" />
-=======
       <workItem from="1683713594278" duration="1488000" />
       <workItem from="1683715121644" duration="1016000" />
       <workItem from="1683789708971" duration="84000" />
       <workItem from="1683890959203" duration="644000" />
       <workItem from="1683891925066" duration="5124000" />
       <workItem from="1683899123909" duration="254000" />
->>>>>>> 6627671872d9daff1feccd6410e5b16283d7cbab
+      <workItem from="1684253628447" duration="2369000" />
+      <workItem from="1684316703587" duration="2000" />
+      <workItem from="1684356542412" duration="152000" />
+      <workItem from="1684357802053" duration="19000" />
+      <workItem from="1684357873253" duration="6000" />
+      <workItem from="1685201609081" duration="2160000" />
+      <workItem from="1685343007496" duration="604000" />
+      <workItem from="1685360511629" duration="2685000" />
+      <workItem from="1685545729844" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="基本框架和Echo实例">
       <created>1682612739326</created>

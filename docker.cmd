@@ -1,0 +1,1 @@
+docker run --name=env -itd -p 3306:3306 -p 6379:6379 -p 8848:8848 -p 5672:5672 -p 15672:15672 lingling100sccn/travel-all-env:latest /bin/bash /init.sh
